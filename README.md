@@ -14,7 +14,7 @@ Sistema inteligente de prevención de accidentes viales diseñado para monitorea
 - **Model Loss (Test):** `0.638`
 - **Tasa de Falsos Negativos:** `< 2%`
 
-## 🛠️ Tecnologías Utilizadas
+## Tecnologías Utilizadas
 - **Lenguaje:** Python 3.x
 - **Visión Artificial:** OpenCV, MediaPipe
 - **Procesamiento de Datos & IA:** NumPy, Scikit-Learn
